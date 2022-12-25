@@ -1,0 +1,3 @@
+download nodejs
+download vsc (if not downloaded)
+install react developer tools extension in your browser
