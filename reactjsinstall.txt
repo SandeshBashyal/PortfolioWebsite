@@ -1,3 +1,11 @@
 download nodejs
 download vsc (if not downloaded)
 install react developer tools extension in your browser
+Extensions in your vsc:
+1. Thunder Client
+2. Es7 react/ redux snippets
+3. Bracket pair colorizer
+4. Auto rename tag
+5. Live server
+6. Prettier- Code formattor
+7.
