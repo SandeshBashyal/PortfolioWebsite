@@ -8,4 +8,15 @@ Extensions in your vsc:
 4. Auto rename tag
 5. Live server
 6. Prettier- Code formattor
-7.
+
+
+npx create-react-app portfolio
+npm install react-bootstrap bootstrap
+npm install react-multi-corousel
+npm install express cors nodemailer
+npm i mailchimp-nodejs or npm install --save mailchimp-nodejs
+npm install animate.css --save
+npm i react-on-screen or npm install --save react-on-screen
+npx browserslist@latest --update-db
+npm install react-router-dom
+npm install react-router-hash-link
